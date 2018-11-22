@@ -1,1 +1,3 @@
 Some work on feature B
+
+Some more work on feature B
